@@ -3,6 +3,7 @@
 # UPDATED: 2025年12月31日13:07:32
 payload:
   - DOMAIN,uhd.jialin.im #反代UHD
+  - DOMAIN-SUFFIX,hohai.eu.org #30元一年
   - DOMAIN-SUFFIX,uhdnow.com #5刀一年
   - DOMAIN-SUFFIX,emby.bangumi.ca #公益服
   - DOMAIN-SUFFIX,emos.lol #公益服
