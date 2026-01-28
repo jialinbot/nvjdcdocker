@@ -1,6 +1,6 @@
 # NAME: Emby规则
 # AUTHOR: jialin
-# UPDATED: 2026年1月3日16:43:51
+# UPDATED: 2026年1月28日21:28:53
 payload:
   - DOMAIN,uhd.jialin.im #反代UHD
   - DOMAIN,mediaa.qdz1.top #起点站 七折12元一个月
